@@ -1,0 +1,6 @@
+{
+  "name": "NexBank AI Customer Service Agent",
+  "description": "Production-grade, self-improving agentic AI customer service platform for NexBank with dialogue state management, 25+ intent taxonomy, sub-200ms knowledge retrieval, safety guardrails, HITL escalation framework, and continuous learning pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
